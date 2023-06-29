@@ -12,7 +12,7 @@
 
 - **Official Webset**: https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html
 
-![avatar](pic\dataset.png)
+![avatar](./pic/dataset.png)
 
 ## Create Python Environment
 
@@ -35,4 +35,4 @@ pip install -r requirement.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 ## Generate Results
 
-![avatar](pic\res.png)
+![avatar](./pic/res.png)
